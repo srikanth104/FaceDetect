@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "830014273445",
+    "firebase_url": "https://facedetect-c1a49.firebaseio.com",
+    "project_id": "facedetect-c1a49",
+    "storage_bucket": "facedetect-c1a49.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830014273445:android:b8eced03ef760844",
+        "android_client_info": {
+          "package_name": "com.android.udacity.capstone.facedetect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "830014273445-dnh44nr8ddrn0nfti1k6e9racte56fem.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.udacity.capstone.facedetect",
+            "certificate_hash": "5477f55b72d9b0a251262c18be36ce8084651867"
+          }
+        },
+        {
+          "client_id": "830014273445-2gmi2vo2h2ocl1d5d19kopk8tlc0a7rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdTtwKSHfTrKwGEeKugjDJzYhwySTAAR0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "830014273445-2gmi2vo2h2ocl1d5d19kopk8tlc0a7rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
